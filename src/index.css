@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+	background: #17191e;
+}
+
+.data {
+	background: #1e2028;
+}
